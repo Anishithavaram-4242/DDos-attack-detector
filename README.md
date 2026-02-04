@@ -70,7 +70,7 @@ New security concerns and assaults, particularly Distributed Denial of Service (
 ```
 
 ```bash
-git clone https://github.com/anishithavarma-coder/DDos-attack-detector.git
+git clone https://github.com/Anishithavaram-4242/DDos-attack-detector.git
 ```
 
 
